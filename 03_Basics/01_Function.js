@@ -35,4 +35,3 @@ function loginUserMessage(username = "sam"){
 
 // console.log(loginUserMessage("Ram Singh"));
 console.log(loginUserMessage("Ram Singh"));
-
