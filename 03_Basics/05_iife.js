@@ -11,4 +11,5 @@
     
 })('ram singh')
 
-// iife ka use kab karte hai hai => global scope ke polusion se problem hoti hai kayi bar to us global scope ke jo variables hai uske polusion ko hatane ke liye ham IIfe ka use kiya
+// iife ka use kab karte hai hai => global scope ke polusion se problem hoti hai kayi bar to us global scope ke jo
+// variables hai uske polusion ko hatane ke liye ham IIfe ka use kiya
